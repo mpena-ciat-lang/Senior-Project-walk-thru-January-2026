@@ -1,0 +1,11 @@
+column,type,label,description
+Area Name,text,area_name,The official name of the geographic area.
+Area Type,text,area_type,"The type of geographic area: California-Statewide, County, Metropolitan Area, Local Workforce Development Area, Sub-county places."
+Year,text,year,The referenced 4-digit calendar year.
+Month,text,,
+Seasonally Adjusted(Y/N),text,,
+Status,text,status,"Current month data typically preliminary and is subject to revision, all others final and not subject to change."
+Labor Force,numeric,labor_force,Civilian Labor Force.
+Employment,numeric,employment,The proportion of the civilian non institutional population aged 16 years and over that is employed.
+Unemployment,numeric,unemployment,"Comprises all civilians 16 years and over who did not work during the survey week, who made specific efforts to find a job within the past four weeks, and who were available for work (except for temporary illness) during the survey week."
+Unemployment Rate,numeric,unemployment_rate,The unemployment rate represents the number unemployed as a percent of the labor force.
